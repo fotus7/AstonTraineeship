@@ -1,3 +1,5 @@
 *.jar
 *.war
 *.log 
+.idea/
+target/
