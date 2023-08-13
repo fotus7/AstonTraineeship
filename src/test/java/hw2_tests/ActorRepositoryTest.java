@@ -1,3 +1,5 @@
+package hw2_tests;
+
 import org.Aston.hw2_WebService.model.Actor;
 import org.Aston.hw2_WebService.repository.ActorRepository;
 import org.Aston.hw2_WebService.util.DataBaseConnection;
